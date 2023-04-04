@@ -1,11 +1,15 @@
 # CS0010-Final-Project
+## Team Name
+**Tax Evasion**
+### Team Members
+- Sahil Patel | *sap265@pitt.edu*
+- Michael Nunno | *mgn20@pitt.edu*
+- Edward Xu | *kjg86@pitt.edu*
+- Kieran Griperay | *ehx1@pitt.edu*
+#### Description / Links to Datasets
+[PM2.5 2011 Data](https://data.wprdc.org/dataset/particulate-matter-2-5/resource/d281efe0-62d9-4c2b-b41f-bb99fcbec705?inner_span=True)
+**This dataset is the measured amount of particulate matter (per cubic meter) is in the air in Allegheny County. The map is split up into different Census Tract segments, which are statistical subdivisons of a county.**
+(OTHER MEMBERS CAN PUT YOUR STUFF HERE :])
 
-## ***Introduction***
-Hello to whoever is reading this! My group, "Tax Evasion"'s project is based on which Pittsburgh neighborhood is the best. The best for what? The best for surviving a **NUCLEAR EXPLOSION!!!** 
-
-![BOOSH](https://media.giphy.com/media/rhYsUMhhd6yA0/giphy.gif)
-
-I know, kinda scary. But we thought, where around Pittsburgh would be the most feasible for this feat? And so: our beautiful and terrifying project was born.
-
-## **Metric**
-For my portion of the project, I got a bit more sciency with it. 
+##### Repository Summary
+This repository is based of the question: "Which neighborhood in Pittsburgh is the best?" Each individual group was left to decide what 'best' meant, so this repository answers the question: "Which neighborhood in Pittsburgh would be the best to survive a nuclear explosion in?" 
