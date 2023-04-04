@@ -1,6 +1,5 @@
 # CS0010-Final-Project
-## Team Name
-**Tax Evasion**
+## Team Name: ## **Tax Evasion**
 ### Team Members
 - Sahil Patel | *sap265@pitt.edu*
 - Michael Nunno | *mgn20@pitt.edu*
@@ -8,6 +7,7 @@
 - Kieran Griperay | *ehx1@pitt.edu*
 #### Description / Links to Datasets
 [PM2.5 2011 Data](https://data.wprdc.org/dataset/particulate-matter-2-5/resource/d281efe0-62d9-4c2b-b41f-bb99fcbec705?inner_span=True)
+
 **This dataset is the measured amount of particulate matter (per cubic meter) is in the air in Allegheny County. The map is split up into different Census Tract segments, which are statistical subdivisons of a county.**
 (OTHER MEMBERS CAN PUT YOUR STUFF HERE :])
 
