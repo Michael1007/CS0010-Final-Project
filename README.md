@@ -4,8 +4,8 @@ Tax Evasion
 ### Team Members:
 - Sahil Patel | *sap265@pitt.edu*
 - Michael Nunno | *mgn20@pitt.edu*
-- Edward Xu | *kjg86@pitt.edu*
-- Kieran Griperay | *ehx1@pitt.edu*
+- Edward Xu | *ehx1@pitt.edu*
+- Kieran Griperay | *kjg86@pitt.edu*
 #### Description / Links to Datasets:
 [**PM2.5 2011 Data**](https://data.wprdc.org/dataset/particulate-matter-2-5/resource/d281efe0-62d9-4c2b-b41f-bb99fcbec705?inner_span=True)
 
