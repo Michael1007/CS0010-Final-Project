@@ -15,3 +15,7 @@ This dataset is the measured amount of particulate matter (per cubic meter) is i
 
 ##### Repository Summary:
 This repository is based of the question: "Which neighborhood in Pittsburgh is the best?" Each individual group was left to decide what 'best' meant, so this repository answers the question: "Which neighborhood in Pittsburgh would be the best to survive a nuclear explosion in?" 
+
+Ed went with the perspective of which neighborhood has the most restaurants, as restaurants have ample food and walk-in freezers.
+
+
