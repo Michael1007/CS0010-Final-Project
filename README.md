@@ -19,8 +19,7 @@ This dataset was used to narrow down the first dataset to just the places within
 This dataset is the amoutn of supermarkets and convenience stores located in Allegheny county
 
 Ed went with the perspective of which neighborhood has the most restaurants, as restaurants have ample food and walk-in freezers.
-[Food Facilities/Restaurants Data]
-https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a?view_id=758d9bb5-73cc-4d81-bc94-09547ee704cd
+[Food Facilities/Restaurants Data](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a?view_id=758d9bb5-73cc-4d81-bc94-09547ee704cd)
 
 
 ##### Repository Summary:
