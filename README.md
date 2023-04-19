@@ -1,7 +1,8 @@
 # CS0010-Final-Project
 ## Team Name: 
-##Tax Evasion
-##Group Number: 29
+Tax Evasion
+
+Group Number: 29
 ### Team Members:
 - Sahil Patel | *sap265@pitt.edu*
 - Michael Nunno | *mgn20@pitt.edu*
