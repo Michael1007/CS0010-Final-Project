@@ -1,6 +1,5 @@
 # CS0010-Final-Project
-## Team Name: 
-Tax Evasion
+## Team Name: Tax Evasion
 
 Group Number: 29
 ### Team Members:
