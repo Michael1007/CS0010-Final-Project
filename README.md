@@ -22,6 +22,22 @@ This dataset is the amoutn of supermarkets and convenience stores located in All
 Ed went with the perspective of which neighborhood has the most restaurants, as restaurants have ample food and walk-in freezers.
 [Food Facilities/Restaurants Data](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a?view_id=758d9bb5-73cc-4d81-bc94-09547ee704cd)
 
+#### What Files Belong to / are Used by Which Members:
+**Michael**
+
+* Particulate_Matter (folder), mgn20-particulate_matter_findings-Copy1.ipynb, Pittsburgh-tract-and-names.csv, pm2.520011ct.csv
+
+**Kieran**
+
+* Bridge_Kieran.ipynb, bridges.csv
+
+**Ed**
+
+* Ed-Xu-finalproject.ipynb, pittsburghfoodfacilities.csv
+
+**Sahil**
+
+* NuclearSupermarket.ipynb, SupermarketsData.csv
 
 ##### Repository Summary:
 This repository is based of the question: "Which neighborhood in Pittsburgh is the best?" Each individual group was left to decide what 'best' meant, so this repository answers the question: "Which neighborhood in Pittsburgh would be the best to survive a nuclear explosion in?" 
