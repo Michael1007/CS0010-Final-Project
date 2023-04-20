@@ -15,6 +15,11 @@ This dataset is the measured amount of particulate matter (per cubic meter) is i
 [**Block Index**](https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/6b09ea3e-7d34-4665-ad0b-798a0efadc29)
 
 This dataset was used to narrow down the first dataset to just the places within Pittsburgh.
+[**City of Pittsburgh Bridges**](https://data.wprdc.org/dataset/city-of-pittsburgh-bridges/resource/23f675e5-f745-49c1-8fa0-c5bc35c25184) 
+
+This dataset shows all the bridges in the city of Pittsburgh, with the important information being the latitude and longitude of each bridges start location. 
+
+This dataset was used to narrow down the first dataset to just the places within Pittsburgh.
 
 [**Supermarkets & Convenience Stores Data**](https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)
 This dataset is the amoutn of supermarkets and convenience stores located in Allegheny county
