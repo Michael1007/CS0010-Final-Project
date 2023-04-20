@@ -7,7 +7,7 @@ Group Number: 29
 - Michael Nunno | *mgn20@pitt.edu*
 - Edward Xu | *ehx1@pitt.edu*
 - Kieran Griperay | *kjg86@pitt.edu*
-#### Description / Links to Datasets:
+### Description / Links to Datasets:
 [**PM2.5 2011 Data**](https://data.wprdc.org/dataset/particulate-matter-2-5/resource/d281efe0-62d9-4c2b-b41f-bb99fcbec705?inner_span=True)
 
 This dataset is the measured amount of particulate matter (per cubic meter) is in the air in Allegheny County. The map is split up into different Census Tract segments, which are statistical subdivisons of a county.
@@ -22,7 +22,7 @@ This dataset is the amoutn of supermarkets and convenience stores located in All
 Ed went with the perspective of which neighborhood has the most restaurants, as restaurants have ample food and walk-in freezers.
 [Food Facilities/Restaurants Data](https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a?view_id=758d9bb5-73cc-4d81-bc94-09547ee704cd)
 
-#### What Files Belong to / are Used by Which Members:
+### What Files Belong to / are Used by Which Members:
 **Michael**
 
 * Particulate_Matter (folder), mgn20-particulate_matter_findings-Copy1.ipynb, Pittsburgh-tract-and-names.csv, pm2.520011ct.csv
